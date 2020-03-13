@@ -1,0 +1,72 @@
+h1 {
+    color: coral; 
+    font-size: 50px; 
+    font-family: Helvetica, Georgia, 'Times New Roman', Times, serif; 
+    text-align: center; 
+    text-shadow: 2px cornflowerblue;
+    text-shadow: 5px 5px gray;
+}
+
+h2 {
+
+    color:coral; 
+    font-size: 30px; 
+    font-family: Helvetica, Georgia, 'Times New Roman', Times, serif; 
+    text-align: center; 
+    text-shadow: 3px 5px gray
+}
+
+body {
+    background-color:lemonchiffon;
+
+}
+
+
+.modifimage {
+    margin: 0 auto;
+    border: 5px coral dotted ;
+width: 10%;
+height: 10%;
+display: flex;
+justify-content: center;
+     
+}
+
+.tailleimage {
+    margin: 0 auto;
+    border: 3px gray ridge ;
+width: 20%;
+height: 20%;
+display: flex;
+justify-content: center;
+
+}
+
+.domi {
+    margin: 0 auto;
+    border: 3px darkslategray double ;
+width: 20%;
+height: 20%;
+display: flex;
+justify-content: center
+
+
+}
+
+.colorimage {
+    margin: 0 auto;
+    border: 3px red outset ;
+width: 20%;
+height: 20%;
+display: flex;
+justify-content: center
+
+}
+
+
+p {
+    color:coral; 
+    font-size: 20px; 
+    font-family: Helvetica, Georgia, 'Times New Roman', Times, serif; 
+    text-align: center
+}

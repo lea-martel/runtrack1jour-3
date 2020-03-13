@@ -1,0 +1,70 @@
+h1 {
+    color: pink; 
+    font-size: 50px; 
+    font-family: Helvetica, Georgia, 'Times New Roman', Times, serif; 
+    text-align: center; 
+}
+
+h2 {
+
+    color: pink; 
+    font-size: 30px; 
+    font-family: Helvetica, Georgia, 'Times New Roman', Times, serif; 
+    text-align: center; 
+}
+
+body {
+    background-color: cadetblue;
+
+}
+
+
+
+.modifimage {
+    margin: 0 auto;
+    border: 3px  pink solid ;
+width: 10%;
+height: 10%;
+display: flex;
+justify-content: center;
+     
+}
+
+.tailleimage {
+    margin: 0 auto;
+    border: 3px navy dashed ;
+width: 20%;
+height: 20%;
+display: flex;
+justify-content: center;
+
+}
+
+.domi {
+    margin: 0 auto;
+    border: 3px darkslategray dashed ;
+width: 20%;
+height: 20%;
+display: flex;
+justify-content: center
+
+
+}
+
+.colorimage {
+    margin: 0 auto;
+    border: 3px rebeccapurple dashed ;
+width: 20%;
+height: 20%;
+display: flex;
+justify-content: center
+
+}
+
+
+p {
+    color: pink; 
+    font-size: 20px; 
+    font-family: Helvetica, Georgia, 'Times New Roman', Times, serif; 
+    text-align: center
+}
